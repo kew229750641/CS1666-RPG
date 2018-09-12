@@ -12,7 +12,7 @@ TEAM:
 
 2. James Finkel - jaf177@pitt.edu
 
-3.
+3. Kexin Wang(Bruce) - kew102@pitt.edu
 
 4.
 
